@@ -6,7 +6,7 @@ const app = express();
 
 const corsOptions = {
   origin: [
-    "https://purple-merit-yb3c.vercel.app",
+    "https://purple-merit-yb3c-q70jrgxgl-mohit-mittals-projects-69a05702.vercel.app",
     "http://localhost:3000",
     "http://localhost:5173",
   ],
